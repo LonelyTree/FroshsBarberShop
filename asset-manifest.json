@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/FroshsBarberShop/static/css/main.98dcf230.chunk.css",
-    "main.js": "/FroshsBarberShop/static/js/main.6cd4b36b.chunk.js",
-    "main.js.map": "/FroshsBarberShop/static/js/main.6cd4b36b.chunk.js.map",
+    "main.css": "/FroshsBarberShop/static/css/main.33e89669.chunk.css",
+    "main.js": "/FroshsBarberShop/static/js/main.65fc6475.chunk.js",
+    "main.js.map": "/FroshsBarberShop/static/js/main.65fc6475.chunk.js.map",
     "runtime-main.js": "/FroshsBarberShop/static/js/runtime-main.28fdf611.js",
     "runtime-main.js.map": "/FroshsBarberShop/static/js/runtime-main.28fdf611.js.map",
     "static/js/2.0cfec085.chunk.js": "/FroshsBarberShop/static/js/2.0cfec085.chunk.js",
     "static/js/2.0cfec085.chunk.js.map": "/FroshsBarberShop/static/js/2.0cfec085.chunk.js.map",
     "index.html": "/FroshsBarberShop/index.html",
-    "precache-manifest.7911e00b443cb59aa182b1cad2e8080f.js": "/FroshsBarberShop/precache-manifest.7911e00b443cb59aa182b1cad2e8080f.js",
+    "precache-manifest.ef4ef4d64cc415190b29944c93ca60af.js": "/FroshsBarberShop/precache-manifest.ef4ef4d64cc415190b29944c93ca60af.js",
     "service-worker.js": "/FroshsBarberShop/service-worker.js",
-    "static/css/main.98dcf230.chunk.css.map": "/FroshsBarberShop/static/css/main.98dcf230.chunk.css.map",
+    "static/css/main.33e89669.chunk.css.map": "/FroshsBarberShop/static/css/main.33e89669.chunk.css.map",
     "static/js/2.0cfec085.chunk.js.LICENSE": "/FroshsBarberShop/static/js/2.0cfec085.chunk.js.LICENSE",
     "static/media/map.css": "/FroshsBarberShop/static/media/FroshsBarberShopLogo.845b1205.png",
     "static/media/app.css": "/FroshsBarberShop/static/media/woodTexture.fd47904f.jpg",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.28fdf611.js",
     "static/js/2.0cfec085.chunk.js",
-    "static/css/main.98dcf230.chunk.css",
-    "static/js/main.6cd4b36b.chunk.js"
+    "static/css/main.33e89669.chunk.css",
+    "static/js/main.65fc6475.chunk.js"
   ]
 }

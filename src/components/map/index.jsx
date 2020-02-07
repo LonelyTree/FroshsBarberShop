@@ -4,7 +4,6 @@ import '../../css/map.css'
 export const MapFrame = () => {
 	return (
 		<div className='mapWrapper'>
-			<div className='logoMini' />
 			<div className='mapContainer'>
 				<iframe
 					width='100%'

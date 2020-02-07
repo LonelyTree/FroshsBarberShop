@@ -2,6 +2,7 @@
 	"name": "froshsbarbershop",
 	"version": "0.1.0",
 	"private": true,
+	"homepage": "https://lonelytree.github.io/FroshsBarberShop",
 	"dependencies": {
 		"@testing-library/jest-dom": "^4.2.4",
 		"@testing-library/react": "^9.4.0",
@@ -14,7 +15,7 @@
 		"sass": "^1.24.3"
 	},
 	"scripts": {
-		"start": "BROWSER=Firefox_Developer_Edition react-scripts start",
+		"start": "react-scripts start",
 		"build": "react-scripts build",
 		"predeploy": "npm run build",
 		"deploy": "gh-pages -d build",

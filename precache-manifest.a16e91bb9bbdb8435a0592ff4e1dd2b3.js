@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "27154dfd78c3d305310a2523b400f877",
+    "revision": "cdc32d3f91f233822f62dc6692dfade3",
     "url": "/FroshsBarberShop/index.html"
   },
   {
-    "revision": "7803d08dd401752afee8",
-    "url": "/FroshsBarberShop/static/css/main.33e89669.chunk.css"
+    "revision": "0b7bf98576b048b511ea",
+    "url": "/FroshsBarberShop/static/css/main.20d9a1fb.chunk.css"
   },
   {
     "revision": "59a3424ec70bbc92dd5b",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/FroshsBarberShop/static/js/2.0cfec085.chunk.js.LICENSE"
   },
   {
-    "revision": "7803d08dd401752afee8",
-    "url": "/FroshsBarberShop/static/js/main.058a36da.chunk.js"
+    "revision": "0b7bf98576b048b511ea",
+    "url": "/FroshsBarberShop/static/js/main.d9c5c279.chunk.js"
   },
   {
     "revision": "9c54a342fb892981b410",
@@ -28,16 +28,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/FroshsBarberShop/static/media/FroshsBarberShopLogo.845b1205.png"
   },
   {
-    "revision": "09917d019e987ab889d9044164f17ca0",
-    "url": "/FroshsBarberShop/static/media/barberChair.09917d01.jpg"
+    "revision": "2af788058fdb43baadebb9bb1d423b91",
+    "url": "/FroshsBarberShop/static/media/barberChair.2af78805.jpg"
   },
   {
     "revision": "af118a2907844d1556e35a4101aebe16",
     "url": "/FroshsBarberShop/static/media/button.af118a29.png"
   },
   {
-    "revision": "50a0344945c9df2a67b60ef32ee43a0f",
-    "url": "/FroshsBarberShop/static/media/mailboxes.50a03449.jpg"
+    "revision": "9becc0a5c2c975f1bc36030fe2b00aec",
+    "url": "/FroshsBarberShop/static/media/mailboxes.9becc0a5.jpg"
   },
   {
     "revision": "dd3776b3cdaafca43d9d974fe63dd8f8",
@@ -48,7 +48,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/FroshsBarberShop/static/media/scissorIcon.fe36dcb7.jpg"
   },
   {
-    "revision": "fd47904f2b15759d5e83bb97359d0485",
-    "url": "/FroshsBarberShop/static/media/woodTexture.fd47904f.jpg"
+    "revision": "f04b62d15fcb5943b213fbfb283c8838",
+    "url": "/FroshsBarberShop/static/media/woodTexture.f04b62d1.jpg"
   }
 ]);

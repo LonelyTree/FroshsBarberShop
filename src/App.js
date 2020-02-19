@@ -20,12 +20,6 @@ class App extends Component {
 					<ParallaxLayer offset={1.1} speed={0.4} style={{ zIndex: 1 }}>
 						<h1 className='serviceHeading'>ABOUT FROSH'S</h1>
 						<About />
-						<div className='serviceHeadingWrapper'>
-							<h1 className='serviceHeading'>SERVICES</h1>
-						</div>
-						<Services />
-						<Contact />
-						<MapFrame />
 					</ParallaxLayer>
 					<ParallaxLayer offset={1} speed={0.36} style={{ zIndex: -1 }}>
 						<div className='masterImageWrapper'>
@@ -41,7 +35,12 @@ class App extends Component {
 					>
 						<div className='masterImageWrapper'>
 							<div className='servicesImageWrapper'>
-								<div className='backgroundServices'></div>
+								<div className='backgroundServices'>
+									<div className='serviceHeadingWrapper'>
+										<h1 className='serviceHeading'>SERVICES</h1>
+									</div>
+									<Services />
+								</div>
 							</div>
 						</div>
 					</ParallaxLayer>
@@ -52,7 +51,10 @@ class App extends Component {
 					>
 						<div className='masterImageWrapper'>
 							<div className='contactImageWrapper'>
-								<div className='backgroundContact'></div>
+								<div className='backgroundContact'>
+									<Contact />
+									<MapFrame />
+								</div>
 							</div>
 						</div>
 					</ParallaxLayer>

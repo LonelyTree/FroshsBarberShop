@@ -1,67 +1,35 @@
-import React, { Component } from 'react'
+import React from 'react'
+import { Grid } from '@material-ui/core'
+import CssBaseline from '@material-ui/core/CssBaseline'
+import { ThemeProvider } from '@material-ui/core/styles'
 import { Landing } from './components/landing'
 import { About } from './components/about'
 import { Contact } from './components/contact'
 import { MapFrame } from './components/map'
-import { Services } from './components/servicesOffered'
-import Arrow from './img/button.png'
-import { Parallax, ParallaxLayer } from 'react-spring/renderprops-addons'
+import { Services } from './components/services'
+import { theme } from './theme'
+import { useStyles } from './appStyles'
+// import BarberChair from './components/backgrounds/background1'
 
-import './css/app.css'
+// [theme.breakpoints.down('sm')]: { },
+// [theme.breakpoints.between('sm','md')]: { },
+// [theme.breakpoints.between('md','lg')]: { },
+// [theme.breakpoints.up('xl')]: { },
 
-class App extends Component {
-	render() {
-		return (
-			<Parallax ref={(ref) => (this.parallax = ref)} pages={3.6}>
-				<div className='App'>
-					<ParallaxLayer offset={0} speed={0.5}>
-						<Landing />
-					</ParallaxLayer>
-					<ParallaxLayer offset={1.1} speed={0.4} style={{ zIndex: 1 }}>
-						<h1 className='serviceHeading'>ABOUT FROSH'S</h1>
-						<About />
-					</ParallaxLayer>
-					<ParallaxLayer offset={1} speed={0.36} style={{ zIndex: -1 }}>
-						<div className='masterImageWrapper'>
-							<div className='aboutImageWrapper'>
-								<div className='backgroundAbout'></div>
-							</div>
-						</div>
-					</ParallaxLayer>
-					<ParallaxLayer
-						offset={2}
-						speed={0.36}
-						style={{ zIndex: -1, marginTop: '-16vw' }}
-					>
-						<div className='masterImageWrapper'>
-							<div className='servicesImageWrapper'>
-								<div className='backgroundServices'>
-									<div className='serviceHeadingWrapper'>
-										<h1 className='serviceHeading'>SERVICES</h1>
-									</div>
-									<Services />
-								</div>
-							</div>
-						</div>
-					</ParallaxLayer>
-					<ParallaxLayer
-						offset={3}
-						speed={0.36}
-						style={{ zIndex: -1, marginTop: '-32vw' }}
-					>
-						<div className='masterImageWrapper'>
-							<div className='contactImageWrapper'>
-								<div className='backgroundContact'>
-									<Contact />
-									<MapFrame />
-								</div>
-							</div>
-						</div>
-					</ParallaxLayer>
-				</div>
-			</Parallax>
-		)
-	}
+function App() {
+	const classes = useStyles()
+	return (
+		<ThemeProvider theme={theme}>
+			<Grid className={classes.app}>
+				<CssBaseline />
+				<Landing />
+				<About />
+				<Services />
+				<Contact />
+				<MapFrame />
+			</Grid>
+		</ThemeProvider>
+	)
 }
 
 export default App

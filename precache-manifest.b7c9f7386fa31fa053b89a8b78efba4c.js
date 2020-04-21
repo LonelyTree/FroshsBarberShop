@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d6c1af2a2b7b60eb3a33fcb8e4720c24",
+    "revision": "0f8ad6279e0df48baaf4efdb19123caf",
     "url": "/FroshsBarberShop/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/FroshsBarberShop/static/js/2.dd3bf951.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "df437619dbe35ef0fff2",
-    "url": "/FroshsBarberShop/static/js/main.61e4d1a1.chunk.js"
+    "revision": "4ddd94a78763681b6375",
+    "url": "/FroshsBarberShop/static/js/main.4748d876.chunk.js"
   },
   {
     "revision": "cacd92fe1e81c188aa62",

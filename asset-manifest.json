@@ -1,26 +1,23 @@
 {
   "files": {
-    "main.css": "/FroshsBarberShop/static/css/main.20d9a1fb.chunk.css",
-    "main.js": "/FroshsBarberShop/static/js/main.d9c5c279.chunk.js",
-    "main.js.map": "/FroshsBarberShop/static/js/main.d9c5c279.chunk.js.map",
-    "runtime-main.js": "/FroshsBarberShop/static/js/runtime-main.28fdf611.js",
-    "runtime-main.js.map": "/FroshsBarberShop/static/js/runtime-main.28fdf611.js.map",
-    "static/js/2.0cfec085.chunk.js": "/FroshsBarberShop/static/js/2.0cfec085.chunk.js",
-    "static/js/2.0cfec085.chunk.js.map": "/FroshsBarberShop/static/js/2.0cfec085.chunk.js.map",
+    "main.js": "/FroshsBarberShop/static/js/main.f2e357a8.chunk.js",
+    "main.js.map": "/FroshsBarberShop/static/js/main.f2e357a8.chunk.js.map",
+    "runtime-main.js": "/FroshsBarberShop/static/js/runtime-main.2841589e.js",
+    "runtime-main.js.map": "/FroshsBarberShop/static/js/runtime-main.2841589e.js.map",
+    "static/js/2.dd3bf951.chunk.js": "/FroshsBarberShop/static/js/2.dd3bf951.chunk.js",
+    "static/js/2.dd3bf951.chunk.js.map": "/FroshsBarberShop/static/js/2.dd3bf951.chunk.js.map",
     "index.html": "/FroshsBarberShop/index.html",
-    "precache-manifest.a16e91bb9bbdb8435a0592ff4e1dd2b3.js": "/FroshsBarberShop/precache-manifest.a16e91bb9bbdb8435a0592ff4e1dd2b3.js",
+    "precache-manifest.6bf91a2dfb721e2d6bf805bd9fc0f00a.js": "/FroshsBarberShop/precache-manifest.6bf91a2dfb721e2d6bf805bd9fc0f00a.js",
     "service-worker.js": "/FroshsBarberShop/service-worker.js",
-    "static/css/main.20d9a1fb.chunk.css.map": "/FroshsBarberShop/static/css/main.20d9a1fb.chunk.css.map",
-    "static/js/2.0cfec085.chunk.js.LICENSE": "/FroshsBarberShop/static/js/2.0cfec085.chunk.js.LICENSE",
-    "static/media/map.css": "/FroshsBarberShop/static/media/FroshsBarberShopLogo.845b1205.png",
-    "static/media/app.css": "/FroshsBarberShop/static/media/woodTexture.f04b62d1.jpg",
+    "static/js/2.dd3bf951.chunk.js.LICENSE.txt": "/FroshsBarberShop/static/js/2.dd3bf951.chunk.js.LICENSE.txt",
+    "static/media/FroshsBarberShopLogo.png": "/FroshsBarberShop/static/media/FroshsBarberShopLogo.845b1205.png",
     "static/media/button.png": "/FroshsBarberShop/static/media/button.af118a29.png",
-    "static/media/servicesOffered.css": "/FroshsBarberShop/static/media/scissorIcon.fe36dcb7.jpg"
+    "static/media/razorIcon.jpg": "/FroshsBarberShop/static/media/razorIcon.dd3776b3.jpg",
+    "static/media/scissorIcon.jpg": "/FroshsBarberShop/static/media/scissorIcon.fe36dcb7.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.28fdf611.js",
-    "static/js/2.0cfec085.chunk.js",
-    "static/css/main.20d9a1fb.chunk.css",
-    "static/js/main.d9c5c279.chunk.js"
+    "static/js/runtime-main.2841589e.js",
+    "static/js/2.dd3bf951.chunk.js",
+    "static/js/main.f2e357a8.chunk.js"
   ]
 }

@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/FroshsBarberShop/static/js/main.f2e357a8.chunk.js",
-    "main.js.map": "/FroshsBarberShop/static/js/main.f2e357a8.chunk.js.map",
+    "main.js": "/FroshsBarberShop/static/js/main.e507bb9d.chunk.js",
+    "main.js.map": "/FroshsBarberShop/static/js/main.e507bb9d.chunk.js.map",
     "runtime-main.js": "/FroshsBarberShop/static/js/runtime-main.2841589e.js",
     "runtime-main.js.map": "/FroshsBarberShop/static/js/runtime-main.2841589e.js.map",
     "static/js/2.dd3bf951.chunk.js": "/FroshsBarberShop/static/js/2.dd3bf951.chunk.js",
     "static/js/2.dd3bf951.chunk.js.map": "/FroshsBarberShop/static/js/2.dd3bf951.chunk.js.map",
     "index.html": "/FroshsBarberShop/index.html",
-    "precache-manifest.6bf91a2dfb721e2d6bf805bd9fc0f00a.js": "/FroshsBarberShop/precache-manifest.6bf91a2dfb721e2d6bf805bd9fc0f00a.js",
+    "precache-manifest.8ee11e6ec0b9121f2f867a9ac1130bbb.js": "/FroshsBarberShop/precache-manifest.8ee11e6ec0b9121f2f867a9ac1130bbb.js",
     "service-worker.js": "/FroshsBarberShop/service-worker.js",
     "static/js/2.dd3bf951.chunk.js.LICENSE.txt": "/FroshsBarberShop/static/js/2.dd3bf951.chunk.js.LICENSE.txt",
     "static/media/FroshsBarberShopLogo.png": "/FroshsBarberShop/static/media/FroshsBarberShopLogo.845b1205.png",
@@ -18,6 +18,6 @@
   "entrypoints": [
     "static/js/runtime-main.2841589e.js",
     "static/js/2.dd3bf951.chunk.js",
-    "static/js/main.f2e357a8.chunk.js"
+    "static/js/main.e507bb9d.chunk.js"
   ]
 }

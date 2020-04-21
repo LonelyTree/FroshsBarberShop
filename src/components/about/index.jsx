@@ -5,7 +5,7 @@ import { useStyles } from './styles'
 export const About = () => {
 	const classes = useStyles()
 	return (
-		<Grid className={classes.about}>
+		<Grid className={classes.about} id='about'>
 			<h1 className={classes.header}>About Frosh's</h1>
 			<Grid container className={classes.aboutContainer}>
 				<p className={classes.desc}>

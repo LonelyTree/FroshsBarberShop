@@ -19,7 +19,7 @@ export const useStyles = makeStyles((theme) => ({
 			display: 'inherit',
 			flexDirection: 'column',
 			alignItems: 'center',
-			width: '50%',
+			width: '80%',
 		},
 		imageWrapper: {
 			width: '45vw',
@@ -27,7 +27,7 @@ export const useStyles = makeStyles((theme) => ({
 			overflow: 'hidden',
 			boxShadow: '0 0 2vw black',
 		},
-		image: { width: '100%' },
+		image: { width: '100%', height: '100%' },
 		service: {
 			fontFamily: 'lobster',
 			color: theme.palette.text.primary,
@@ -76,7 +76,7 @@ export const useStyles = makeStyles((theme) => ({
 			overflow: 'hidden',
 			boxShadow: '0 0 2vw black',
 		},
-		image: { width: '100%' },
+		image: { width: '100%', height: '100%' },
 		service: {
 			fontFamily: 'lobster',
 			color: theme.palette.text.primary,
@@ -127,7 +127,7 @@ export const useStyles = makeStyles((theme) => ({
 			boxShadow: '0 0 2vw black',
 			margin: '2vw',
 		},
-		image: { width: '100%' },
+		image: { width: '100%', height: '100%' },
 		service: {
 			fontFamily: 'lobster',
 			color: theme.palette.text.primary,
@@ -178,7 +178,7 @@ export const useStyles = makeStyles((theme) => ({
 			boxShadow: '0 0 2vw black',
 			margin: '2vw',
 		},
-		image: { width: '100%' },
+		image: { width: '100%', height: '100%' },
 		service: {
 			fontFamily: 'lobster',
 			color: theme.palette.text.primary,

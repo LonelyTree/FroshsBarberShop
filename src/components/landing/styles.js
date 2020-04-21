@@ -12,16 +12,27 @@ export const useStyles = makeStyles((theme) => ({
 			width: '100%',
 			display: 'inherit',
 			justifyContent: 'center',
+			alignItems: 'center',
 			marginTop: '20vh',
 			marginBottom: '15vh',
 		},
 		logo: { width: '90%' },
 		arrowWrapper: {
 			width: '100%',
+			height: 'auto',
 			display: 'inherit',
 			justifyContent: 'center',
 		},
-		arrow: { width: '12%' },
+		arrowLink: {
+			width: 'inherit',
+			display: 'inherit',
+			justifyContent: 'inherit',
+			alignItems: 'center',
+		},
+		arrow: {
+			width: '12%',
+			height: 'auto',
+		},
 	},
 	[theme.breakpoints.between('sm', 'md')]: {
 		landingWrapper: {
@@ -40,10 +51,11 @@ export const useStyles = makeStyles((theme) => ({
 		logo: { width: '90%' },
 		arrowWrapper: {
 			width: '100%',
+			height: 'auto',
 			display: 'inherit',
 			justifyContent: 'center',
 		},
-		arrow: { width: '10%' },
+		arrow: { width: '10%', height: 'auto' },
 	},
 	[theme.breakpoints.between('md', 'lg')]: {
 		landingWrapper: {
@@ -64,7 +76,6 @@ export const useStyles = makeStyles((theme) => ({
 		logo: { width: '100%' },
 		arrowWrapper: {
 			width: '100%',
-			display: 'inherit',
 			justifyContent: 'center',
 			display: 'none',
 		},

@@ -12,7 +12,9 @@ export const Landing = () => {
 				<img src={Logo} className={classes.logo} alt='logo' />
 			</Grid>
 			<Grid container className={classes.arrowWrapper}>
-				<img src={Arrow} alt='down arrow' className={classes.arrow} />
+				<a className={classes.arrowLink} href='#about'>
+					<img src={Arrow} alt='down arrow' className={classes.arrow} />
+				</a>
 			</Grid>
 		</Grid>
 	)
